@@ -29,7 +29,7 @@ This Laravel application provides a REST API for managing users and retrieving u
 
     DB_DATABASE=user_management_api
 
-4, **Migratio**
+4, **Migration**
 
     php artisan migrate --seed // migrate with user seeder data 
 

@@ -14,6 +14,7 @@ This Laravel application provides a REST API for managing users and retrieving u
 1. **Clone the repository**
 
    git clone git@github.com:ZhineSmathew/User-Management-Api-Project.git
+   
    cd User-Management-Api-Project
 
 2, **Environment setup**

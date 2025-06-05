@@ -4,17 +4,18 @@ This Laravel application provides a REST API for managing users and retrieving u
 
 ## Requirements
 
-- PHP >= 8.1
+- PHP -> 8
 - Composer
-- Laravel 12
+- Laravel -> 12
 - Database - Mysql 
 
 ## Setup 
 
 1. **Clone the repository**
 
-   git clone https://github.com/your-repo/laravel-user-profile.git
-   cd laravel-user-profile
+   git clone git@github.com:ZhineSmathew/User-Management-Api-Project.git
+   cd User-Management-Api-Project
+
 2, **Environment setup**
     composer install
     cp .env.example .env

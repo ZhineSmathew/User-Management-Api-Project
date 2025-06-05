@@ -1,4 +1,4 @@
-# Laravel User Management API Project
+# Laravel User Management RESTFUL API Project
 
 This Laravel application provides a REST API for managing users and retrieving user profile details, including multiple address records.  No authentication is required for this task as per the specification.
 
